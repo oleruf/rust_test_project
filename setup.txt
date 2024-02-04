@@ -1,0 +1,6 @@
+rustup default stable-x86_64-pc-windows-gnu
+
+//Создание нового проекта
+cargo new rust_test_project --bin
+cargo run
+cargo build
