@@ -59,6 +59,7 @@ fn main() {
 
     // Цикл while
     let mut counter = 0;
+    
     while counter < 3 {
         println!("Повторение {}", counter);
         counter += 1;
