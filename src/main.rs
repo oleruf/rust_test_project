@@ -38,10 +38,6 @@ fn main() {
     // Размер массива (известен на этапе компиляции)
     let length = colors.len();
 
-
-
-    
-
     let age = 25;
 
     if age < 18 {
